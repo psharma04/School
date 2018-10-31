@@ -1,2 +1,5 @@
 # school
-My School Repository
+My Schoolwork
+All school data will be uploaded here over time.
+Feel free to clone this repository at: 
+

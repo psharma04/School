@@ -1,4 +1,4 @@
-#All my school data will be uploaded here over time.  
+All my school data will be uploaded here over time.  
 Feel free to clone this repository from: <https://github.com/psharma04/School.git>  
 Sites:  
 IST

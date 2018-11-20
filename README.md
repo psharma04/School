@@ -9,7 +9,7 @@
 [Engineering Primary](https://engineering2018.rbxii3.tk/)  
 
 ### Supporters:  
-#### Domain: 
+#### Primary Domains: 
 [Freenom](https://www.freenom.com)  
 #### Media Hosting: 
 [GitHub](https://github.com/)  

@@ -1,5 +1,5 @@
-## All my school data will be uploaded here over time.  
-## Feel free to clone this repository from: <https://github.com/psharma04/School.git>  
+### All my school data will be uploaded here over time.  
+### Feel free to clone this repository from: <https://github.com/psharma04/School.git>  
 ### Sites:  
 #### IST  
 [IST Primary](https://ist2018.rbxii3.tk/)  
@@ -20,5 +20,5 @@
 #### SSL and CDN:
 [Cloudflare](https://www.cloudflare.com/)  
 
-### My primary site is also hosted using these services at
+### My primary site is also hosted using these services at:
 [https://rbxii3.tk](https://rbxii3.tk/)

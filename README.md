@@ -6,12 +6,9 @@
   [ISTEM Primary](https://school.rbxii3.tk/ISTEM2018/)
 
 ### 2018 Sites:  
-#### IST  
-[IST Primary](https://ist2018.rbxii3.tk/)  
+#### IST    
 [IST 2018 Major Project](https://roadworkreviews.tk) 
-[IST 2018 News Site](https://pranavsharma1.wixsite.com/istnews)  
-#### Engineering:  
-[Engineering Primary](https://engineering2018.rbxii3.tk/)  
+[IST 2018 News Site](https://pranavsharma1.wixsite.com/istnews)
 
 ### Supporters:  
 #### Primary Domains: 

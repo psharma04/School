@@ -3,7 +3,7 @@
 
 ### 2019 Sites:
 #### ISTEM
-  [ISTEM Primary](https://school.rbxii3.tk/ISTEM2019/)
+  [ISTEM Primary](https://school.rbxii3.tk/ISTEM/)
 
 #### LAP/SDL
   [LAP Primary](https://school.rbxii3.tk/LAP-SDL)

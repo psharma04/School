@@ -26,4 +26,4 @@
 [Cloudflare](https://www.cloudflare.com/)  
 
 ### My primary site is also hosted using these services at:
-[https://rbxii3.tk](https://rbxii3.tk/)
+[https://rbxii3.tk](https://rbxii3.com/)

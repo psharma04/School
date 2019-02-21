@@ -6,14 +6,26 @@
 <meta name="Description" content="Explanation of how the Inferior Security Algorithm works.">
 <meta name="Keywords" content="cryptography, crypto, documentation, programming, python, sdl">
 </head>
-<body style="font-size: 110%">
+<body style="font-size:110%">
   <br>
   <h1>Inferior Security Algorithm - Documentation</h1>
   <br>
   <h2>What is the ISC?</h2>
   <p>The ISC is a simple hashing algorithm by @MaXiTOR994 and @RBXII3. It was designed to be lightweight, have less than 250 lines of code and stand up to a basic bruteforce script, as well as a reverse-engineered decoder.<br>
     The ISC accomplished all of these requirements. Before minifying, the file was only 143 lines long, and took up a mere 7KB. It ran smoothly on everything from a MacBook Pro to a Raspberry Pi, and the bruteforce test script took over a month to crack a 4 digit code.</p>
-  <h4>If you want to know more about the background of theis project, click <a href="https://school.rbxii3.tk/LAP-SDL/Presentation.html">here</a>.</h4>
-  <p>
+  <h4>If you want to know more about the background of this project, click <a href="https://school.rbxii3.tk/LAP-SDL/Presentation.html">here</a>.</h4>
+  <h2>How does it work?</h2>
+  <p>The ISC is based on prime numbers and pseudo-random generators.</p>
+  <h4>NOTE: Throughout this page, we will work through the code responses as the user sees them. Therefore, we need to have sample inputs as well.</h4>
+  <ul style="text-indent: 3%; font-size:120%">
+      <li>Unencrypted data: Hello123</li>
+      <li>Password: n4men0tfound</li>
+      <li>Seed: CSEC4472</li>
+  </ul>
+  <p>First, the user inputs some data to encrypt. They are then prompted for a password and seed.</p>
+  <p>Then, the script uses this seed to generate a large number.</p>
+  <p>After that, the password and unencrypted data are translated into numbers</p>
+  <p>Then the seed, password, data and 11 prime numbers are all multiplied together.</p>
+  <p>Finally, the hash is outputted for the user.</p>
 </body>
 </html>

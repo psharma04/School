@@ -6,7 +6,7 @@
 <meta name="Description" content="Explanation of how the Inferior Security Algorithm works.">
 <meta name="Keywords" content="cryptography, crypto, documentation, programming, python, sdl">
 </head>
-<body style="font-size:110%">
+<body style="font-size:110%; margin-left:1%; margin-right:1%">
   <br>
   <h1>Inferior Security Algorithm - Documentation</h1>
   <br>
@@ -22,10 +22,17 @@
       <li>Password: n4men0tfound</li>
       <li>Seed: CSEC4472</li>
   </ul>
-  <p>First, the user inputs some data to encrypt. They are then prompted for a password and seed.</p>
-  <p>Then, the script uses this seed to generate a large number.</p>
-  <p>After that, the password and unencrypted data are translated into numbers</p>
-  <p>Then the seed, password, data and 11 prime numbers are all multiplied together.</p>
-  <p>Finally, the hash is outputted for the user.</p>
+  <h2>There are 4 steps:</h2>
+  <p>First, the user inputs some data to encrypt. They are then prompted for a password and seed. Note how the program does not display the password, but still captures the input.</p>
+  <br><img src="Screenshots/2.png" alt="The user has entered data, a password (which is automatically hidden), and a seed." width="75%"><br>
+  <p>Then, the script uses this seed to generate a large number.</p><br>
+  <img src="Screenshots/3.png" alt="The confirmation sequence, which is just a face for the traslation of words to decimal in the background." width="75%"><br>
+  <p>After that, the password and unencrypted data are translated into numbers, and the seed, password, data and 11 prime numbers are all multiplied together.</p><br>
+  <img src="Screenshots/4.png" alt="The script prints a set of large numbers, and then generates another number based on files 2 directories up." width="75%"><br>
+  <p>Finally, the hash is outputted for the user, the script opens up this website, and automatically exits.</p><br>
+  <img src="Screenshots/5.png" alt="Finally, the ISC hash is outputted." width="75%">
+  <br><br>
+  <p>This algorithm is extremely simple. However, it is not very efficient. MD5, a well known, widely used hashing algorithm, when coded in Python, is only 6.11KB. Another algorithm, SHA-512, is even smaller, at only 4.52KB. This shows the difference between 2 months and 10 years of algorithm development. SHA-512 is much more secure than ISC, and even the now-outdated MD5 is better. </p>
+  <p>That's not to say it can't be improved, though. You can check out the source code at <a href="https://github.com/psharma04/SDL-Cryptography-Algorithm" alt="my repository on GitHub dot com">https://github.com/psharma04/SDL-Cryptography-Algorithm</a>. Who knows, maybe an implementation of ISC might someday become as popular as MD5 and SHA!</p>
 </body>
 </html>

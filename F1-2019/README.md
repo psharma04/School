@@ -1,7 +1,7 @@
 ## F1 In Schools 2019
 
-### Discord: discord.gg/8KMrahH
+### [Discord: https://discord.gg/8KMrahH](https://discord.gg/8KMrahH)
 ### Classroom: 
 
-#### [Technical Regulations]
-#### Competition Regulations
+#### [Technical Regulations](https://school.rbxii3.tk/F1-2019/2018-2019-Australian-Technical-Regulations-v1.0.pdf)
+#### [Competition Regulations](https://school.rbxii3.tk/F1-2019/2018-2019-Australian-Competition-Regulations-v1.0.pdf)

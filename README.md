@@ -14,7 +14,7 @@
 ### 2018 Sites:  
 #### IST    
 [IST 2018 Major Project](https://roadworkreviews.tk)
-/n
+<br>
 [IST 2018 News Site](https://pranavsharma1.wixsite.com/istnews)
 
 ### Supporters:  

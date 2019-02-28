@@ -2,6 +2,9 @@
 ### Feel free to clone this repository from: <https://github.com/psharma04/School.git>  
 
 ### 2019 Sites:
+#### F1 In Schools
+  [F1 School-Wide](https://school.rbxii3.tk/F1-2019)
+
 #### ISTEM
   [ISTEM Primary](https://school.rbxii3.tk/ISTEM/)
 

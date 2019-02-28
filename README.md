@@ -1,5 +1,6 @@
 ### All my school data will be uploaded here over time.  
 ### Feel free to clone this repository from: <https://github.com/psharma04/School.git>  
+### Or [download directly](https://rbxii3.net/schooldl.html)
 
 ### 2019 Sites:
 #### F1 In Schools

@@ -32,3 +32,6 @@
 
 ### My primary site is also hosted using these services at:
 [https://rbxii3.com](https://rbxii3.com/)
+
+
+#### ALL FILES PROVIDED UNDER THE [COLAWARE LICENCE](https://school.rbxii3.tk/LICENCE)

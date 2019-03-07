@@ -34,4 +34,4 @@
 [https://rbxii3.com](https://rbxii3.com/)
 
 
-#### ALL FILES PROVIDED UNDER THE [COLAWARE LICENCE](https://school.rbxii3.tk/LICENCE)
+#### ALL FILES PROVIDED UNDER THE [COLAWARE LICENSE](https://school.rbxii3.tk/LICENSE)

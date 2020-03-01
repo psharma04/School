@@ -4,13 +4,13 @@
 
 ### 2019 Sites:
 #### F1 In Schools
-  [F1 School-Wide](https://school.rbxii3.tk/F1-2019)
+  [F1 School-Wide](/F1-2019)
 
 #### ISTEM
-  [ISTEM Primary](https://school.rbxii3.tk/ISTEM/)
+  [ISTEM Primary](/ISTEM/)
 
 #### LAP/SDL
-  [LAP Primary](https://school.rbxii3.tk/LAP-SDL)
+  [LAP Primary](/LAP-SDL)
 
 ### 2018 Sites:  
 #### IST    
@@ -34,4 +34,4 @@
 [https://rbxii3.com](https://rbxii3.com/)
 
 
-#### ALL FILES PROVIDED UNDER THE [COLAWARE LICENSE](https://school.rbxii3.tk/LICENSE)
+#### ALL FILES PROVIDED UNDER THE [COLAWARE LICENSE](/LICENSE)
